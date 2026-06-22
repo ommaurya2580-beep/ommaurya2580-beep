@@ -1,27 +1,23 @@
-<!-- ===================== PREMIUM GITHUB PROFILE V4 ===================== -->
+<!-- ===================== OM MAURYA PREMIUM GITHUB PROFILE ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Om+Maurya;Software+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;AI+Explorer;Building+Future+With+Code+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Om+Maurya;Software+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;AI+Explorer;Building+Future+With+Code+🚀"/>
 </h1>
 
 <h3 align="center">
-  💻 Software Engineering Student | 🚀 Full Stack Developer | 🤖 AI Explorer
+💻 Software Engineering Student | 🚀 Full Stack Developer | 🤖 AI Explorer
 </h3>
 
----
-
-## 🎯 Developer Status
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software Engineering-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-C++-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Generative AI-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Learning Everyday-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Software_Engineering-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-C++-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Generative_AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Building_Everyday-00FFFF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name: Om Maurya
@@ -29,166 +25,122 @@ Name: Om Maurya
 Role:
   Software Engineering Student
 
-Currently Learning:
+Current Focus:
   - Data Structures & Algorithms
   - Full Stack Development
   - System Design
   - Artificial Intelligence
 
-Building:
-  - AKTU Counselling Helper
-  - Modern Web Applications
+Currently Building:
+  - AKTU Counselling Helper Platform
+  - Modern Scalable Applications
 
 Goal:
   Become a Skilled Software Engineer 🚀
 ```
 
-## 🛠 Tech Universe
+---
+
+# 🛠 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mysql,mongodb,firebase,supabase,git,github,docker,linux,bash,postman,figma,flutter,androidstudio&perline=7"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,tailwind,react,nextjs,vite,nodejs,express,mysql,mongodb,firebase,supabase,git,github,docker,linux,bash,postman,figma,flutter,androidstudio&perline=7"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎓 AKTU Counselling Helper
-- Search 10,000+ AKTU cutoff records
-- Smart filtering and rank analysis
-- Fast responsive UI
+## 🎓 AKTU Counselling Helper
 
-### 🌐 Portfolio Website
-- Modern UI/UX
-- Responsive Design
-- Performance Optimized
+🔹 10,000+ AKTU Cutoff Records  
+🔹 Smart Search & Filtering  
+🔹 Rank Analysis System  
+🔹 Fast & Responsive Interface
 
-### 📱 Mobile Applications
-- Flutter Development
-- Firebase Authentication
-- Real-time Database
 
-### 🤖 AI & IoT Projects
-- Smart Farming
-- Solar Charging Station
-- AI Based Solutions
+## 🌐 Personal Portfolio
 
----
+🔹 Modern UI/UX  
+🔹 Responsive Design  
+🔹 Performance Optimized
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📱 Mobile Applications
 
-  <img height="170"
-  src="https://streak-stats.demolab.com?user=ommaurya2580-beep&theme=tokyonight"/>
-</p>
+🔹 Flutter Development  
+🔹 Firebase Authentication  
+🔹 Real-Time Database  
+🔹 Android Development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommaurya2580-beep&layout=compact&theme=tokyonight"/>
-</p>
+
+## 🤖 AI & IoT Projects
+
+🔹 Smart Farming System  
+🔹 Solar Charging Station  
+🔹 AI Powered Solutions  
+🔹 IoT Based Automation
+
 
 ---
 
-## 🟩 Contribution Calendar
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/ommaurya2580-beep"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170"
+src="https://streak-stats.demolab.com?user=ommaurya2580-beep&theme=tokyonight"/>
+
 </p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommaurya2580-beep&layout=compact&theme=tokyonight"/>
+
+</p>
+
 
 ---
 
-## 🔥 Contribution Activity Graph
+# 🟩 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://ghchart.rshah.org/40c463/ommaurya2580-beep"/>
+
 </p>
+
 
 ---
 
-## 📈 Detailed GitHub Dashboard
+# 🔥 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ommaurya2580-beep&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img height="150"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ommaurya2580-beep&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&theme=tokyo-night&hide_border=true"/>
 
-  <img height="150"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ommaurya2580-beep&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="150"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ommaurya2580-beep&theme=tokyonight"/>
-
-  <img height="150"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ommaurya2580-beep&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
----
-
-## 🧠 LeetCode Journey
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ommaurya07?theme=dark&font=baloo"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Detailed GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ommaurya2580-beep&theme=radical&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ommaurya2580-beep&theme=tokyonight"/>
+
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<img height="150"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ommaurya2580-beep&theme=tokyonight"/>
+
+<img height="150"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ommaurya2580-beep&theme=tokyonight"/>
+
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/om-maurya-1b9540362">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-
-  <a href="mailto:ommaurya2580@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-
-  <a href="https://instagram.com/om_mauray07">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-</p>
-
----
-
-## 💡 Developer Philosophy
-
-<h3 align="center">
-  "Code. Learn. Build. Repeat. 🚀"
-</h3>
-
-<p align="center">
-  ⭐ Turning ideas into scalable software ⭐
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=PROFILE VIEWS&color=00FFFF&style=for-the-badge"/>
-</p>
-
-<!-- ===================== END OF PREMIUM PROFILE ===================== -->
