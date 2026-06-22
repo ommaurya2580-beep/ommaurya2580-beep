@@ -34,7 +34,7 @@
 <div align="center">
 
 ```console
-$ whoami
+$ who am i
 
 👨‍💻 Om Maurya
 
