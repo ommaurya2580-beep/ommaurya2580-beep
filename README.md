@@ -1,146 +1,37 @@
-<!-- ===================== OM MAURYA PREMIUM GITHUB PROFILE ===================== -->
+<!-- ===================== OM MAURYA | PREMIUM GITHUB PROFILE ===================== -->
+<!-- ===================== CYBERPUNK NEON THEME | 2026 ===================== -->
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Om+Maurya;Software+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;AI+Explorer;Building+Future+With+Code+🚀"/>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Om+Maurya;Software+Engineering+Student;Full+Stack+Architect;DSA+%26+System+Design+Enthusiast;AI+%26+Generative+Intelligence+Explorer;Building+Scalable+Digital+Future+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
 <h3 align="center">
-💻 Software Engineering Student | 🚀 Full Stack Developer | 🤖 AI Explorer
+  <b>💎 Crafting High-Performance Applications & Intelligent Systems</b>
 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Software_Engineering-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-C++-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Generative_AI-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Building_Everyday-00FFFF?style=for-the-badge"/>
+  <a href="https://github.com/ommaurya2580-beep"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%2B_AI-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively_Building-00FF9F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Currently-AKTU_Counselling_Platform-FF00FF?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### 👑 About Me
 
 ```yaml
 Name: Om Maurya
-
-Role:
-  Software Engineering Student
-
+Role: Software Engineering Student & Full Stack Developer
+Location: India
 Current Focus:
-  - Data Structures & Algorithms
-  - Full Stack Development
-  - System Design
-  - Artificial Intelligence
-
+  - Advanced DSA & Competitive Programming
+  - System Design & Scalable Architecture
+  - Full Stack Development (MERN / Next.js 15)
+  - Artificial Intelligence & Generative Models
+  - Cloud & DevOps Practices
 Currently Building:
-  - AKTU Counselling Helper Platform
-  - Modern Scalable Applications
-
-Goal:
-  Become a Skilled Software Engineer 🚀
-```
-
----
-
-# 🛠 Tech Universe
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,tailwind,react,nextjs,vite,nodejs,express,mysql,mongodb,firebase,supabase,git,github,docker,linux,bash,postman,figma,flutter,androidstudio&perline=7"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 AKTU Counselling Helper
-
-🔹 10,000+ AKTU Cutoff Records  
-🔹 Smart Search & Filtering  
-🔹 Rank Analysis System  
-🔹 Fast & Responsive Interface
-
-
-## 🌐 Personal Portfolio
-
-🔹 Modern UI/UX  
-🔹 Responsive Design  
-🔹 Performance Optimized
-
-
-## 📱 Mobile Applications
-
-🔹 Flutter Development  
-🔹 Firebase Authentication  
-🔹 Real-Time Database  
-🔹 Android Development
-
-
-## 🤖 AI & IoT Projects
-
-🔹 Smart Farming System  
-🔹 Solar Charging Station  
-🔹 AI Powered Solutions  
-🔹 IoT Based Automation
-
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170"
-src="https://streak-stats.demolab.com?user=ommaurya2580-beep&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommaurya2580-beep&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
----
-
-# 🟩 GitHub Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/40c463/ommaurya2580-beep"/>
-
-</p>
-
-
----
-
-# 🔥 Contribution Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Detailed GitHub Dashboard
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ommaurya2580-beep&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img height="150"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ommaurya2580-beep&theme=tokyonight"/>
-
-<img height="150"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ommaurya2580-beep&theme=tokyonight"/>
-
-</p>
+  - AKTU Counselling Helper Platform (10k+ records)
+  - Modern SaaS Products & Scalable Web Apps
+  - AI-Powered Tools & Intelligent IoT Solutions
+Ambition: Become a Top-Tier Software Engineer & Innovator 🚀
