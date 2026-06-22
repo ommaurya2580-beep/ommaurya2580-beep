@@ -29,36 +29,34 @@
 
 # 👑 About Me
 
-```yaml
-Name: Om Maurya
+# 👑 About Me
 
-Role:
-  - Software Engineering Student
-  - Full Stack Developer
+<div align="center">
 
-Location:
-  India 🇮🇳
+```console
+$ whoami
 
-Current Focus:
-  - Advanced Data Structures & Algorithms
-  - Competitive Programming
-  - System Design & Low Level Design
-  - Full Stack Development (MERN & Next.js)
-  - Artificial Intelligence & Generative AI
-  - Cloud Computing & DevOps
+👨‍💻 Om Maurya
 
-Currently Building:
-  - 🎓 AKTU Counselling Helper Platform
-  - 🌐 Modern SaaS & Web Applications
-  - 🤖 AI-Powered Tools & Intelligent IoT Solutions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Tech Philosophy:
-  "Write Clean Code • Build Scalable Systems • Never Stop Learning"
+🎓 Role          : Software Engineering Student
+🚀 Specializing  : Full Stack Development & AI
+🧠 Learning      : DSA • System Design • Cloud
+💡 Exploring     : Generative AI • DevOps • IoT
+🛠 Building      : AKTU Counselling Helper Platform
+🌱 Philosophy    : Code • Create • Innovate
 
-Mission:
-  Become a World-Class Software Engineer & Technology Innovator 🚀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Current Mission:
+"Transforming ideas into scalable digital experiences."
+
+🎯 Ultimate Goal:
+Become a World-Class Software Engineer 🚀
 ```
----
+
+</div>
 
 # 🚀 Featured Projects
 
