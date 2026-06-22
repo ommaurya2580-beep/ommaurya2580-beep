@@ -33,54 +33,31 @@
 Name: Om Maurya
 
 Role:
-  Software Engineering Student
-  Full Stack Developer
+  - Software Engineering Student
+  - Full Stack Developer
 
 Location:
-  India
+  India 🇮🇳
 
 Current Focus:
   - Advanced Data Structures & Algorithms
   - Competitive Programming
-  - System Design
-  - Full Stack Development (MERN / Next.js)
+  - System Design & Low Level Design
+  - Full Stack Development (MERN & Next.js)
   - Artificial Intelligence & Generative AI
-  - Cloud & DevOps
+  - Cloud Computing & DevOps
 
 Currently Building:
-  - AKTU Counselling Helper Platform
-  - Modern SaaS Applications
-  - AI Tools & Intelligent IoT Systems
+  - 🎓 AKTU Counselling Helper Platform
+  - 🌐 Modern SaaS & Web Applications
+  - 🤖 AI-Powered Tools & Intelligent IoT Solutions
+
+Tech Philosophy:
+  "Write Clean Code • Build Scalable Systems • Never Stop Learning"
 
 Mission:
-  Become a Top-Tier Software Engineer & Innovator 🚀
+  Become a World-Class Software Engineer & Technology Innovator 🚀
 ```
-
----
-
-# 🛠 Tech Universe
-
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=
-cpp,java,python,
-js,ts,
-html,css,tailwind,
-react,nextjs,vite,
-nodejs,express,nestjs,
-mysql,mongodb,postgres,
-firebase,supabase,
-git,github,
-docker,kubernetes,
-linux,bash,
-aws,vercel,
-postman,figma,
-flutter,androidstudio
-&perline=8"
-  />
-</p>
-
-
 ---
 
 # 🚀 Featured Projects
