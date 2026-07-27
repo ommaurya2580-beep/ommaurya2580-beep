@@ -1,346 +1,182 @@
-<!-- ===================== OM MAURYA | PREMIUM CYBERPUNK PROFILE ===================== -->
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Om+Maurya;Software+Engineering+Student;Full+Stack+Developer;DSA+%26+System+Design+Enthusiast;AI+%26+Generative+AI+Explorer;Building+Scalable+Digital+Future+🚀"
-    alt="Typing SVG"
-  />
-</p>
-
-
-<h3 align="center">
-  💎 Crafting High-Performance Applications & Intelligent Systems
-</h3>
-
-
-<p align="center">
-  <a href="https://github.com/ommaurya2580-beep">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_+_AI-00F0FF?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/Status-Actively_Building-00FF9F?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/Current_Project-AKTU_Counselling_Helper-FF00FF?style=for-the-badge"/>
-</p>
-
----
-
-
-
-# 👑 About Me
+<!-- ========================================================= -->
+<!--                  CYBERPUNK GITHUB PROFILE                 -->
+<!--                    Designed by Om Maurya                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-```console
-$ who am i
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5B21B6,30:7C3AED,60:2563EB,100:06B6D4&text=OM%20MAURYA&fontAlignY=38&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 👋 Hello World, I'm Om Maurya
+
+### 🚀 Software Engineering Student • Full Stack Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Full+Stack+Developer;AI+Explorer;Cybersecurity+Learner;Open+Source+Contributor;Always+Learning+Something+New..." />
+
+</div>
+
+---
+
+# 💻 Boot Sequence
+
+```terminal
+> Initializing Developer Profile...
+
+██████████████████████████████ 100%
+
+✓ Loading Skills
+✓ Connecting GitHub
+✓ Connecting Projects
+✓ Loading Coffee ☕
+✓ Starting Developer Mode
+
+System Status : ONLINE 🟢
+
+Welcome Back, Om Maurya.
+```
+
+---
+
+# 🧠 whoami
+
+```bash
+$ whoami
 
 👨‍💻 Om Maurya
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎓 Role          : Software Engineering Student
-🚀 Specializing  : Full Stack Development & AI
-🧠 Learning      : DSA • System Design • Cloud
-💡 Exploring     : Generative AI • DevOps • IoT
-🛠 Building      : AKTU Counselling Helper Platform
-🌱 Philosophy    : Code • Create • Innovate
+🎓 Education      :: B.Tech Computer Science
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Role           :: Software Engineering Student
 
-📌 Current Mission:
-"Transforming ideas into scalable digital experiences."
+🚀 Specialization :: Full Stack Development
 
-🎯 Ultimate Goal:
-Become a World-Class Software Engineer 🚀
+🤖 Exploring      :: Artificial Intelligence
+                     Generative AI
+                     Cybersecurity
+                     Cloud Computing
+                     DevOps
+
+📚 Currently Learning
+
+◉ Data Structures & Algorithms
+
+◉ System Design
+
+◉ Backend Engineering
+
+◉ Next.js
+
+◉ Docker
+
+◉ AWS
+
+🛠 Building
+
+➜ AKTU Counselling Helper
+
+🎯 Mission
+
+"Building software that solves real-world problems."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Status      :: ONLINE 🟢
+
+Location    :: India 🇮🇳
+
+Coffee      :: ██████████ 100%
+
+Brain       :: ██████████ 100%
+
+Coding      :: ██████████ 100%
+
+Dreams      :: Unlimited 🚀
 ```
 
-</div>
-
-# 🚀 Featured Projects
-
-
-## 🎓 AKTU Counselling Helper
-
-### Features
-- 🔍 10,000+ AKTU cutoff records
-- 📈 Rank Prediction & Analysis
-- ⚡ Fast Search & Filtering
-- 🎨 Modern Responsive UI
-
-### Tech Stack
-Next.js • TypeScript • Database • Analytics
-
-
 ---
 
-## 🌐 Portfolio 2.0
+# 🌌 About Me
 
-### Features
-- Glassmorphism UI
-- Smooth Animations
-- SEO Optimized
-- Fully Responsive
+```yaml
+name: Om Maurya
 
-### Technologies
-Next.js • TypeScript • Framer Motion
+role: Software Engineering Student
 
+specialization:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Backend Engineering
 
----
+currently_learning:
+  - DSA
+  - System Design
+  - Cloud
+  - DevOps
 
-## 📱 Flutter Applications
+currently_building:
+  - AKTU Counselling Helper
 
-- Firebase Authentication
-- Real-time Database
-- Clean Architecture
-- Cross Platform Development
+goal:
+  Become a World-Class Software Engineer
 
-
----
-
-## 🤖 AI + IoT Innovations
-
-- Smart Farming System
-- Solar Monitoring System
-- AI Chatbots
-- Intelligent Automation
-
-
----     
-# 📊 Advanced GitHub Analytics
-
-<p align="center">
-
-<img height="195"
-src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
-
-<img height="195"
-src="https://streak-stats.demolab.com?user=ommaurya2580-beep&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommaurya2580-beep&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
-
----
-
-# 🟩 GitHub Contribution Heatmap
-
-<p align="center">
-
-<img
-src="https://ghchart.rshah.org/40c463/ommaurya2580-beep"
-alt="GitHub Contribution Heatmap"/>
-
-</p>
-
-
----
-
-# 🔥 Contribution Activity Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
----
-
-# 📈 GitHub Profile Dashboard
-
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ommaurya2580-beep&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img height="160"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ommaurya2580-beep&theme=tokyonight"/>
-
-<img height="160"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ommaurya2580-beep&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img height="160"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ommaurya2580-beep&theme=tokyonight"/>
-
-<img height="160"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ommaurya2580-beep&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
-
----
-
-# 🧠 LeetCode Developer Dashboard
-
-
-<p align="center">
-
-<img
-src="https://leetcard.jacoblin.cool/ommaurya07?theme=dark&font=baloo&ext=contest"/>
-
-</p>
-
-
----
-
-# 🔥 LeetCode Activity & Stats
-
-
-<p align="center">
-
-<img
-src="https://leetcode-stats-six.vercel.app/?username=ommaurya07&theme=dark"/>
-
-</p>
-
-
----
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ommaurya2580-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4&row=2"/>
-
-</p>
-
-
----
-
-# 🐍 Contribution Snake Animation
-
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-alt="Snake Animation"/>
-
-</p>
-
-
----
-
-# 🌐 Connect With Me
-
-
-<p align="center">
-
-<a href="https://github.com/ommaurya2580-beep">
-<img
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
-<a href="https://www.linkedin.com/in/om-maurya-1b9540362">
-<img
-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-<a href="https://instagram.com/om_mauray07">
-<img
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-
-<a href="mailto:ommaurya2580@gmail.com">
-<img
-src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-
-<a href="https://leetcode.com/ommaurya07">
-<img
-src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-
-<a href="https://om-portfolio-lemon.vercel.app/">
-<img
-src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-</p>
-
-
----
-
-# 🌎 Visitor Counter
-
-
-<p align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=Profile%20Views&color=00F0FF&style=for-the-badge"/>
-
-</p>
-
-
----
-
-# 💎 Developer Philosophy
-
-
-<h2 align="center">
-
-🚀 "First, solve the problem. Then, write the code."
-
-</h2>
-
-
-<p align="center">
-
-⚡ Code • Learn • Build • Repeat ⚡
-
-</p>
-
-
----
-
-# 🧩 Fun Fact
-
-
-<p align="center">
-
-💻 I don't just write code, I create experiences.<br>
-🤖 Exploring AI, Full Stack Engineering & Future Technologies.<br>
-🌱 Every commit is a step toward becoming a better engineer.
-
-</p>
-
+motto:
+  Learn → Build → Improve → Repeat
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## ⚡ Developer Philosophy
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,100:FF00FF&section=footer"/>
+> **"Code is not just syntax.**
+>
+> **It is creativity, logic, innovation, and impact."**
 
 </div>
 
+---
 
-<!-- ===================== END OF OM MAURYA PREMIUM CYBERPUNK PROFILE ===================== -->
+# 🎯 2026 Mission
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Master Full Stack Development
+
+⬜ Master System Design
+
+⬜ Solve 1000+ DSA Problems
+
+⬜ Learn Cloud Architecture
+
+⬜ Become AI Engineer
+
+⬜ Contribute to Open Source
+
+⬜ Build Products used by Millions
+
+⬜ Launch My Startup
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<div align="center">
+
+### 🚀 Building the Future, One Commit at a Time.
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:5B21B6,40:7C3AED,70:2563EB,100:06B6D4"/>
