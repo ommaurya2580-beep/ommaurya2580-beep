@@ -6,18 +6,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+%26+Useful+Software;Full+Stack+Web+Development;Exploring+Cloud%2C+IoT+%26+GenAI;Turning+Ideas+into+Working+Products" alt="Typing Animation"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/ommaurya2580-beep">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://linkedin.com/in/om-maurya-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:ommaurya2580@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
@@ -55,118 +55,28 @@ I'm a **B.Tech Information Technology student (2024–2028)** at **GL Bajaj Inst
 
 <td width="38%" align="center" valign="middle">
 
-<!-- Animated profile card -->
-<svg width="300" height="360" viewBox="0 0 300 360" xmlns="http://www.w3.org/2000/svg">
+<!-- PROFILE PHOTO -->
+<img
+  src="https://github.com/ommaurya2580-beep.png"
+  width="260"
+  alt="Om Maurya"
+  style="border-radius:50%;"
+/>
 
-<defs>
+<br><br>
 
-<linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%">
-<animate attributeName="stop-color"
-values="#58A6FF;#A855F7;#22D3EE;#58A6FF"
-dur="5s"
-repeatCount="indefinite"/>
-</stop>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=280&lines=Code+%E2%86%92+Build+%E2%86%92+Ship;Always+Learning+%F0%9F%9A%80;Turning+Ideas+Into+Products"
+  alt="Developer Animation"
+/>
 
-<stop offset="100%">
-<animate attributeName="stop-color"
-values="#22D3EE;#58A6FF;#A855F7;#22D3EE"
-dur="5s"
-repeatCount="indefinite"/>
-</stop>
-</linearGradient>
+<br><br>
 
-<filter id="glow">
-<feGaussianBlur stdDeviation="4" result="blur"/>
-<feMerge>
-<feMergeNode in="blur"/>
-<feMergeNode in="SourceGraphic"/>
-</feMerge>
-</filter>
-
-<clipPath id="circle">
-<circle cx="150" cy="145" r="105"/>
-</clipPath>
-
-</defs>
-
-<rect
-x="8"
-y="8"
-width="284"
-height="344"
-rx="28"
-fill="#0D1117"
-stroke="url(#border)"
-stroke-width="3"
-filter="url(#glow)"
->
-<animate
-attributeName="stroke-width"
-values="2;5;2"
-dur="2.5s"
-repeatCount="indefinite"/>
-</rect>
-
-<circle
-cx="150"
-cy="145"
-r="108"
-fill="none"
-stroke="#58A6FF"
-stroke-width="2"
-opacity="0.25"
->
-<animate
-attributeName="r"
-values="105;115;105"
-dur="2.5s"
-repeatCount="indefinite"/>
-</circle>
-
-<!-- GitHub profile avatar -->
-<image
-href="https://github.com/ommaurya2580-beep.png"
-x="45"
-y="40"
-width="210"
-height="210"
-preserveAspectRatio="xMidYMid slice"
-clip-path="url(#circle)"
->
-<animate
-attributeName="opacity"
-values="0.75;1;0.75"
-dur="3s"
-repeatCount="indefinite"/>
-</image>
-
-<text
-x="150"
-y="285"
-text-anchor="middle"
-fill="#FFFFFF"
-font-family="Arial, sans-serif"
-font-size="22"
-font-weight="bold">
-OM MAURYA
-</text>
-
-<text
-x="150"
-y="315"
-text-anchor="middle"
-fill="#58A6FF"
-font-family="monospace"
-font-size="14">
-FULL STACK DEVELOPER
-</text>
-
-</svg>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=280&lines=Code+%E2%86%92+Build+%E2%86%92+Ship;Always+Learning+%F0%9F%9A%80;Turning+Ideas+Into+Products" alt="Developer Animation"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"
+  width="220"
+  alt=""
+/>
 
 </td>
 
@@ -187,13 +97,13 @@ FULL STACK DEVELOPER
 
 ### 🌐 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind&perline=6" alt="Frontend Backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind&perline=6" alt="Frontend and Backend"/>
 
 <br><br>
 
 ### 🗄️ Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&perline=5" alt="Database Cloud"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&perline=5" alt="Database and Cloud"/>
 
 <br><br>
 
@@ -213,9 +123,9 @@ FULL STACK DEVELOPER
 
 <td align="center" width="25%">
 
-## 🌐
+### 🌐
 
-### Web Apps
+**Web Apps**
 
 Scalable & responsive web applications
 
@@ -223,9 +133,9 @@ Scalable & responsive web applications
 
 <td align="center" width="25%">
 
-## 🤖
+### 🤖
 
-### AI Apps
+**AI Apps**
 
 AI-powered real-world solutions
 
@@ -233,9 +143,9 @@ AI-powered real-world solutions
 
 <td align="center" width="25%">
 
-## ☁️
+### ☁️
 
-### Cloud
+**Cloud**
 
 APIs, deployment & cloud systems
 
@@ -243,9 +153,9 @@ APIs, deployment & cloud systems
 
 <td align="center" width="25%">
 
-## 🔌
+### 🔌
 
-### IoT
+**IoT**
 
 Smart devices & sensor systems
 
@@ -262,23 +172,19 @@ Smart devices & sensor systems
 <div align="center">
 
 <a href="https://github.com/ommaurya2580-beep">
-
 <img
 src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
 height="180"
 alt="GitHub Stats"
 />
-
 </a>
 
 <a href="https://github.com/ommaurya2580-beep">
-
 <img
 src="https://streak-stats.demolab.com/?user=ommaurya2580-beep&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
 height="180"
 alt="GitHub Streak"
 />
-
 </a>
 
 </div>
@@ -569,9 +475,16 @@ Developed responsive frontend interfaces using modern web technologies, reusable
 
 </div>
 
----
+<br>
 
 <div align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"
+alt="Profile Views"
+/>
+
+<br><br>
 
 ### 💫 **Code. Build. Learn. Repeat.**
 
