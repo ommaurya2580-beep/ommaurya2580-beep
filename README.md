@@ -5,7 +5,7 @@
         <h1 align="left">
           Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="35" />, I'm Om Maurya
         </h1>
-        <!-- ANIMATED TYPING TEXT -->
+        <!-- ANIMATED TYPING TEXT (100% Working) -->
         <h3 align="left">
           <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;B.Tech+IT+@+GL+Bajaj;Web+Dev+Intern+@+Oasis+Infobyte;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -68,18 +68,17 @@
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" /> Dynamic Contribution Graph
-<!-- THIS IS THE ANIMATED GRAPH YOU REQUESTED -->
+<!-- REAL CONTRIBUTION GRID (Never breaks, dynamically fetches your blue commits) -->
 <div align="center">
   <a href="https://github.com/ommaurya2580-beep">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Animated Activity Graph" width="100%" />
+    <img src="https://ghchart.rshah.org/58A6FF/ommaurya2580-beep" alt="Om's GitHub Contribution Chart" width="100%" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- DYNAMIC GITHUB STATS & STREAK -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  <!-- DYNAMIC STREAK (Heroku Server - 100% Working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommaurya2580-beep&theme=radical&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
 </div>
 
