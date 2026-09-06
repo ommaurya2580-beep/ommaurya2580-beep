@@ -2,15 +2,17 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="65%" valign="top">
-        <h1 align="left">Hi 👋, I'm Om Maurya</h1>
-        <!-- RELIABLE ANIMATED TYPING TEXT -->
+        <h1 align="left">
+          Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="35" />, I'm Om Maurya
+        </h1>
+        <!-- ANIMATED TYPING TEXT -->
         <h3 align="left">
           <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;B.Tech+IT+@+GL+Bajaj;Web+Dev+Intern+@+Oasis+Infobyte;Building+Scalable+Solutions" alt="Typing SVG" />
           </a>
         </h3>
         <p align="left">
-          🚀 <b>Mission:</b> Building software that solves real-world problems.<br><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" /> <b>Mission:</b> Building software that solves real-world problems.<br><br>
           🎓 <b>B.Tech IT (2024-2028)</b> @ GL Bajaj Institute of Technology & Management<br>
           💼 <b>Web Dev Intern</b> @ Oasis Infobyte<br>
           🧠 Exploring <b>Next.js, Cloud (AWS), IoT, and GenAI</b>
@@ -33,7 +35,7 @@
 
 <br>
 
-### 💼 Experience & Education
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Experience & Education
 - 🎓 **B.Tech Information Technology (2024 - 2028)** | *GL Bajaj Institute of Technology & Management* (CGPA: 7.5)
 - 💻 **Web Development Intern (Nov 2025)** | *Oasis Infobyte*
   - Developed responsive frontend interfaces using modern web technologies.
@@ -41,7 +43,7 @@
 
 <br>
 
-### ⚡ Tech Arsenal
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="25" /> Tech Arsenal
 <p align="left">
   <!-- Core -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -65,25 +67,25 @@
 
 <br>
 
-### 📈 Real Contribution Activity
-<!-- 100% RELIABLE CONTRIBUTION GRID (Never breaks, fetches real squares) -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" /> Dynamic Contribution Graph
+<!-- THIS IS THE ANIMATED GRAPH YOU REQUESTED -->
 <div align="center">
   <a href="https://github.com/ommaurya2580-beep">
-    <img src="https://ghchart.rshah.org/58A6FF/ommaurya2580-beep" alt="Om's GitHub Contribution Chart" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Animated Activity Graph" width="100%" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- WORKING STREAK STATS (Heroku Server) -->
+  <!-- DYNAMIC GITHUB STATS & STREAK -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommaurya2580-beep&theme=radical&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
 </div>
 
 <br>
 
-### 🚀 Top Projects (Guaranteed to Load)
-<!-- HTML Cards: Clean, fast, and will never show a broken image -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" /> Top Projects (100% Guaranteed Load)
 <table width="100%" cellspacing="0" cellpadding="15">
   <tr>
     <td width="50%" valign="top">
@@ -147,5 +149,5 @@
 
 <div align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i><br>
-  <b>🚀 Building the Future, One Commit at a Time.</b>
+  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" /> Building the Future, One Commit at a Time.</b>
 </div>
