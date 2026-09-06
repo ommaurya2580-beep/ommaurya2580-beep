@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -31,13 +31,14 @@
 <table width="100%">
 <tr>
 
-<td width="64%" valign="top">
+<td width="62%" valign="top">
 
 ## 🚀 About Me
 
 I'm a **B.Tech Information Technology student (2024–2028)** at **GL Bajaj Institute of Technology & Management**, focused on building practical, scalable and user-focused software.
 
-- 🎓 **B.Tech IT (2024–2028)** @ GL Bajaj Institute of Technology & Management
+- 🎓 **B.Tech IT (2024–2028)**
+- 🏫 **GL Bajaj Institute of Technology & Management**
 - 📊 **CGPA: 7.5**
 - 💼 **Web Development Intern** @ Oasis Infobyte
 - 🌐 Interested in **Full Stack Development**
@@ -52,20 +53,120 @@ I'm a **B.Tech Information Technology student (2024–2028)** at **GL Bajaj Inst
 
 </td>
 
-<td width="36%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img
-src="https://github.com/ommaurya2580-beep.png"
-width="260"
-alt="Om Maurya"
-/>
+<!-- Animated profile card -->
+<svg width="300" height="360" viewBox="0 0 300 360" xmlns="http://www.w3.org/2000/svg">
 
-<br><br>
+<defs>
 
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=280&lines=Code+%E2%86%92+Build+%E2%86%92+Ship;Always+Learning+%F0%9F%9A%80;Turning+Ideas+Into+Products"
-alt="Developer Animation"
-/>
+<linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%">
+<animate attributeName="stop-color"
+values="#58A6FF;#A855F7;#22D3EE;#58A6FF"
+dur="5s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="100%">
+<animate attributeName="stop-color"
+values="#22D3EE;#58A6FF;#A855F7;#22D3EE"
+dur="5s"
+repeatCount="indefinite"/>
+</stop>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+<clipPath id="circle">
+<circle cx="150" cy="145" r="105"/>
+</clipPath>
+
+</defs>
+
+<rect
+x="8"
+y="8"
+width="284"
+height="344"
+rx="28"
+fill="#0D1117"
+stroke="url(#border)"
+stroke-width="3"
+filter="url(#glow)"
+>
+<animate
+attributeName="stroke-width"
+values="2;5;2"
+dur="2.5s"
+repeatCount="indefinite"/>
+</rect>
+
+<circle
+cx="150"
+cy="145"
+r="108"
+fill="none"
+stroke="#58A6FF"
+stroke-width="2"
+opacity="0.25"
+>
+<animate
+attributeName="r"
+values="105;115;105"
+dur="2.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<!-- GitHub profile avatar -->
+<image
+href="https://github.com/ommaurya2580-beep.png"
+x="45"
+y="40"
+width="210"
+height="210"
+preserveAspectRatio="xMidYMid slice"
+clip-path="url(#circle)"
+>
+<animate
+attributeName="opacity"
+values="0.75;1;0.75"
+dur="3s"
+repeatCount="indefinite"/>
+</image>
+
+<text
+x="150"
+y="285"
+text-anchor="middle"
+fill="#FFFFFF"
+font-family="Arial, sans-serif"
+font-size="22"
+font-weight="bold">
+OM MAURYA
+</text>
+
+<text
+x="150"
+y="315"
+text-anchor="middle"
+fill="#58A6FF"
+font-family="monospace"
+font-size="14">
+FULL STACK DEVELOPER
+</text>
+
+</svg>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=280&lines=Code+%E2%86%92+Build+%E2%86%92+Ship;Always+Learning+%F0%9F%9A%80;Turning+Ideas+Into+Products" alt="Developer Animation"/>
 
 </td>
 
@@ -86,13 +187,13 @@ alt="Developer Animation"
 
 ### 🌐 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind&perline=6" alt="Frontend and Backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind&perline=6" alt="Frontend Backend"/>
 
 <br><br>
 
 ### 🗄️ Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&perline=5" alt="Database and Cloud"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&perline=5" alt="Database Cloud"/>
 
 <br><br>
 
@@ -107,13 +208,14 @@ alt="Developer Animation"
 # 🧠 What I Like Building
 
 <table width="100%">
+
 <tr>
 
 <td align="center" width="25%">
 
-### 🌐
+## 🌐
 
-**Web Apps**
+### Web Apps
 
 Scalable & responsive web applications
 
@@ -121,9 +223,9 @@ Scalable & responsive web applications
 
 <td align="center" width="25%">
 
-### 🤖
+## 🤖
 
-**AI Apps**
+### AI Apps
 
 AI-powered real-world solutions
 
@@ -131,9 +233,9 @@ AI-powered real-world solutions
 
 <td align="center" width="25%">
 
-### ☁️
+## ☁️
 
-**Cloud**
+### Cloud
 
 APIs, deployment & cloud systems
 
@@ -141,15 +243,16 @@ APIs, deployment & cloud systems
 
 <td align="center" width="25%">
 
-### 🔌
+## 🔌
 
-**IoT**
+### IoT
 
 Smart devices & sensor systems
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -159,19 +262,23 @@ Smart devices & sensor systems
 <div align="center">
 
 <a href="https://github.com/ommaurya2580-beep">
+
 <img
-src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
 height="180"
-alt="GitHub Statistics"
+alt="GitHub Stats"
 />
+
 </a>
 
 <a href="https://github.com/ommaurya2580-beep">
+
 <img
 src="https://streak-stats.demolab.com/?user=ommaurya2580-beep&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
 height="180"
 alt="GitHub Streak"
 />
+
 </a>
 
 </div>
@@ -180,13 +287,11 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<a href="https://github.com/ommaurya2580-beep">
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommaurya2580-beep&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
 height="180"
 alt="Top Languages"
 />
-</a>
 
 </div>
 
@@ -199,7 +304,7 @@ alt="Top Languages"
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Om%20Maurya%27s%20Contribution%20Graph"
 width="100%"
-alt="GitHub Contribution Activity"
+alt="Contribution Activity"
 />
 
 </div>
@@ -377,7 +482,9 @@ Modern Resume Builder powered by AI and OpenAI API for instant generation.
 <tr>
 
 <td width="15%" align="center">
+
 🎓
+
 </td>
 
 <td>
@@ -386,7 +493,7 @@ Modern Resume Builder powered by AI and OpenAI API for instant generation.
 
 **2024 – 2028**
 
-GL Bajaj Institute of Technology & Management
+**GL Bajaj Institute of Technology & Management**
 
 **CGPA: 7.5**
 
@@ -397,7 +504,9 @@ GL Bajaj Institute of Technology & Management
 <tr>
 
 <td width="15%" align="center">
+
 💻
+
 </td>
 
 <td>
@@ -421,8 +530,11 @@ Developed responsive frontend interfaces using modern web technologies, reusable
 <div align="center">
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+
 <img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
+
 <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
 
 </div>
@@ -454,14 +566,6 @@ Developed responsive frontend interfaces using modern web technologies, reusable
 <a href="https://github.com/ommaurya2580-beep">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
 
 </div>
 
