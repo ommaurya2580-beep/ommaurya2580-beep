@@ -1,14 +1,9 @@
-<!-- ANIMATED HEADER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Welcome%20to%20Om's%20Universe&fontSize=30&fontAlignY=35&fontColor=58A6FF&descAlignY=51&descAlign=62" width="100%"/>
-</div>
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="65%" valign="top">
         <h1 align="left">Hi 👋, I'm Om Maurya</h1>
-        <!-- ANIMATED TYPING TEXT -->
+        <!-- RELIABLE ANIMATED TYPING TEXT -->
         <h3 align="left">
           <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;B.Tech+IT+@+GL+Bajaj;Web+Dev+Intern+@+Oasis+Infobyte;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -38,18 +33,16 @@
 
 <br>
 
-### 🏆 Dynamic GitHub Trophies
-<!-- Automatically fetches your real ranks and displays animated trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ommaurya2580-beep&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Trophy" />
-  </a>
-</div>
+### 💼 Experience & Education
+- 🎓 **B.Tech Information Technology (2024 - 2028)** | *GL Bajaj Institute of Technology & Management* (CGPA: 7.5)
+- 💻 **Web Development Intern (Nov 2025)** | *Oasis Infobyte*
+  - Developed responsive frontend interfaces using modern web technologies.
+  - Implemented reusable UI components and improved UX.
 
 <br>
 
 ### ⚡ Tech Arsenal
-<p align="center">
+<p align="left">
   <!-- Core -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -72,22 +65,25 @@
 
 <br>
 
-### 📈 Real Contribution & Activity (Animated)
-<!-- ANIMATED ACTIVITY GRAPH (Draws line dynamically based on real commits) -->
+### 📈 Real Contribution Activity
+<!-- 100% RELIABLE CONTRIBUTION GRID (Never breaks, fetches real squares) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
+  <a href="https://github.com/ommaurya2580-beep">
+    <img src="https://ghchart.rshah.org/58A6FF/ommaurya2580-beep" alt="Om's GitHub Contribution Chart" width="100%" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <!-- DYNAMIC STATS & STREAK -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  <!-- WORKING STREAK STATS (Heroku Server) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommaurya2580-beep&theme=radical&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
 </div>
 
 <br>
 
-### 🚀 Top Projects (100% Guaranteed Load)
-<!-- Unbreakable Grid Layout -->
+### 🚀 Top Projects (Guaranteed to Load)
+<!-- HTML Cards: Clean, fast, and will never show a broken image -->
 <table width="100%" cellspacing="0" cellpadding="15">
   <tr>
     <td width="50%" valign="top">
