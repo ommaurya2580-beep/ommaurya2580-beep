@@ -21,8 +21,7 @@
         </p>
       </td>
       <td width="35%" align="center" valign="center">
-        <!-- IMAGE SECTION -->
-        <!-- Agar aapko opening animation chahiye, toh ek Animated GIF banakar yahan link paste karein -->
+        <!-- Add a GIF link here if you want it to open animatedly -->
         <a href="https://github.com/ommaurya2580-beep">
           <img src="https://github.com/ommaurya2580-beep.png" width="220" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Om Maurya" />
         </a>
@@ -37,7 +36,7 @@
 - 🎓 **B.Tech Information Technology (2024 - 2028)** | *GL Bajaj Institute of Technology & Management* (CGPA: 7.5)
 - 💻 **Web Development Intern (Nov 2025)** | *Oasis Infobyte*
   - Developed responsive frontend interfaces using modern web technologies.
-  - Implemented reusable UI components and improved user experience.
+  - Implemented reusable UI components and improved UX.
 
 <br>
 
@@ -64,42 +63,75 @@
 
 <br>
 
-### 🚀 Top Projects & Contributions
-*Click on any card to open the repository directly.*
+### 🚀 Featured Projects & Contributions
 
-<div align="center">
-  <a href="https://github.com/ommaurya2580-beep/om-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommaurya2580-beep&repo=om-portfolio&theme=radical&bg_color=0D1117&border_color=30363D&title_color=58A6FF" width="48%" />
-  </a>
-  <a href="https://github.com/ommaurya2580-beep/id-face-sync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommaurya2580-beep&repo=id-face-sync&theme=radical&bg_color=0D1117&border_color=30363D&title_color=58A6FF" width="48%" />
-  </a>
-  <br>
-  <a href="https://github.com/ommaurya2580-beep/spin_and_earn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommaurya2580-beep&repo=spin_and_earn&theme=radical&bg_color=0D1117&border_color=30363D&title_color=58A6FF" width="48%" />
-  </a>
-  <a href="https://github.com/ommaurya2580-beep/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommaurya2580-beep&repo=weather-app&theme=radical&bg_color=0D1117&border_color=30363D&title_color=58A6FF" width="48%" />
-  </a>
-</div>
-
-#### 🌐 Live Demos:
-- 🌟 **Portfolio (3D Animated):** [om-portfolio-lemon.vercel.app](https://om-portfolio-lemon.vercel.app)
-- ⛅ **Weather App:** [weather-app-five-dun-93.vercel.app](https://weather-app-five-dun-93.vercel.app)
+<!-- Unbreakable HTML Table for Projects -->
+<table width="100%" cellspacing="0" cellpadding="15">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Om Portfolio (3D)</h3>
+      <p>Advanced 3D Animated Portfolio with Next.js 15, TypeScript, Firebase, and Admin APK Download System.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/TypeScript-00273F?style=flat-square&logo=typescript&logoColor=white" /></p>
+      <a href="https://github.com/ommaurya2580-beep/om-portfolio">⭐ GitHub Repo</a> | <a href="https://om-portfolio-lemon.vercel.app">🔴 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👤 ID Face Sync</h3>
+      <p>Camera readiness checks and face sync application built with Vite, React, and shadcn/ui.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></p>
+      <a href="https://github.com/ommaurya2580-beep/id-face-sync">⭐ GitHub Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 Spin and Earn</h3>
+      <p>A cross-platform Flutter application for spinning and earning rewards natively.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /></p>
+      <a href="https://github.com/ommaurya2580-beep/spin_and_earn">⭐ GitHub Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⛅ Weather App</h3>
+      <p>A responsive weather application fetching real-time data from REST APIs dynamically.</p>
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /></p>
+      <a href="https://github.com/ommaurya2580-beep/weather-app">⭐ GitHub Repo</a> | <a href="https://weather-app-five-dun-93.vercel.app">🔴 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ Buynora E-Commerce</h3>
+      <p>Premium AI-powered E-Commerce Marketplace with advanced recommendations and secure checkout.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /></p>
+      <a href="https://github.com/ommaurya2580-beep/Buynora">⭐ GitHub Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 AKTU Counselling Helper</h3>
+      <p>AI-powered counselling platform for predicting colleges and analyzing cutoffs for students.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></p>
+      <a href="https://github.com/ommaurya2580-beep/AKTU-Counselling-Helper">⭐ GitHub Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Smart Agriculture IoT</h3>
+      <p>IoT-based Smart Farming Solution using sensors, Arduino, and ESP32 cloud dashboard monitoring.</p>
+      <p><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square" /></p>
+      <a href="https://github.com/ommaurya2580-beep/AGRI-MOIST-SOIL-DASHBOARD">⭐ GitHub Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Resume Builder</h3>
+      <p>Modern Resume Builder powered by Artificial Intelligence and OpenAI API for instant generation.</p>
+      <p><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /></p>
+      <a href="https://github.com/ommaurya2580-beep/AI-Resume-Builder">⭐ GitHub Repo</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ### 📊 GitHub Analytics
+<!-- Simplified URL to prevent breaking -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommaurya2580-beep&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="170" alt="Top Languages" />
-</div>
-
-<br>
-
-### 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ommaurya2580-beep/ommaurya2580-beep/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommaurya2580-beep&theme=radical&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
 </div>
 
 <br>
