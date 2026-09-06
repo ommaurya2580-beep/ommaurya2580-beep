@@ -1,28 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm **Om Maurya**
+# 👋 Hi, I'm Om Maurya
 
-### 💻 Full Stack Developer · Problem Solver · Builder
+### 💻 Full Stack Developer • Problem Solver • Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+%26+Useful+Software;Full+Stack+Web+Development;Exploring+Cloud%2C+IoT+%26+GenAI;Turning+Ideas+into+Working+Products" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://github.com/ommaurya2580-beep">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://linkedin.com/in/om-maurya-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:ommaurya2580@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views">
 
 </div>
 
@@ -40,7 +40,7 @@ I'm a **B.Tech Information Technology student (2024–2028)** at **GL Bajaj Inst
 - 🎓 **B.Tech IT (2024–2028)**
 - 🏫 **GL Bajaj Institute of Technology & Management**
 - 📊 **CGPA: 7.5**
-- 💼 **Web Development Intern** @ Oasis Infobyte
+- 💼 **Web Development Intern @ Oasis Infobyte**
 - 🌐 Interested in **Full Stack Development**
 - 🤖 Exploring **AI/ML & GenAI**
 - ☁️ Exploring **AWS & Cloud**
@@ -55,28 +55,18 @@ I'm a **B.Tech Information Technology student (2024–2028)** at **GL Bajaj Inst
 
 <td width="38%" align="center" valign="middle">
 
-<!-- PROFILE PHOTO -->
 <img
-  src="https://github.com/ommaurya2580-beep.png"
-  width="260"
-  alt="Om Maurya"
-  style="border-radius:50%;"
-/>
+src="https://github.com/ommaurya2580-beep.png"
+width="250"
+alt="Om Maurya Profile Photo"
+>
 
 <br><br>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=280&lines=Code+%E2%86%92+Build+%E2%86%92+Ship;Always+Learning+%F0%9F%9A%80;Turning+Ideas+Into+Products"
-  alt="Developer Animation"
-/>
-
-<br><br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"
-  width="220"
-  alt=""
-/>
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=280&lines=Code+%E2%86%92+Build+%E2%86%92+Ship;Always+Learning+%F0%9F%9A%80;Turning+Ideas+Into+Products"
+alt="Developer Animation"
+>
 
 </td>
 
@@ -91,25 +81,25 @@ I'm a **B.Tech Information Technology student (2024–2028)** at **GL Bajaj Inst
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&perline=5" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&perline=5" alt="Languages">
 
 <br><br>
 
 ### 🌐 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind&perline=6" alt="Frontend and Backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind&perline=6" alt="Frontend Backend">
 
 <br><br>
 
 ### 🗄️ Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&perline=5" alt="Database and Cloud"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&perline=5" alt="Database Cloud">
 
 <br><br>
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Tools">
 
 </div>
 
@@ -118,7 +108,6 @@ I'm a **B.Tech Information Technology student (2024–2028)** at **GL Bajaj Inst
 # 🧠 What I Like Building
 
 <table width="100%">
-
 <tr>
 
 <td align="center" width="25%">
@@ -162,7 +151,6 @@ Smart devices & sensor systems
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -172,24 +160,104 @@ Smart devices & sensor systems
 <div align="center">
 
 <a href="https://github.com/ommaurya2580-beep">
+
 <img
 src="https://github-readme-stats.vercel.app/api?username=ommaurya2580-beep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
 height="180"
 alt="GitHub Stats"
-/>
+>
+
 </a>
 
 <a href="https://github.com/ommaurya2580-beep">
+
 <img
 src="https://streak-stats.demolab.com/?user=ommaurya2580-beep&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
 height="180"
 alt="GitHub Streak"
-/>
+>
+
 </a>
 
 </div>
 
-<br>
+---
+
+# 🟩 GitHub Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/ommaurya2580-beep">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&theme=github-compact&hide_border=true&area=true&custom_title=Om%20Maurya%27s%20GitHub%20Activity"
+width="100%"
+alt="Om Maurya GitHub Contribution Graph"
+>
+
+</a>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img
+src="https://ghchart.rshah.org/58A6FF/ommaurya2580-beep"
+alt="Om Maurya GitHub Contribution Calendar"
+width="100%"
+>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ommaurya2580-beep/ommaurya2580-beep/output/github-contribution-grid-snake-dark.svg"
+>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/ommaurya2580-beep/ommaurya2580-beep/output/github-contribution-grid-snake.svg"
+>
+
+<img
+src="https://raw.githubusercontent.com/ommaurya2580-beep/ommaurya2580-beep/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+>
+
+</picture>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=ommaurya2580-beep&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+alt="GitHub Trophies"
+width="100%"
+>
+
+</div>
+
+---
+
+# 💻 Contribution Stats
 
 <div align="center">
 
@@ -197,21 +265,7 @@ alt="GitHub Streak"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommaurya2580-beep&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
 height="180"
 alt="Top Languages"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ommaurya2580-beep&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Om%20Maurya%27s%20Contribution%20Graph"
-width="100%"
-alt="Contribution Activity"
-/>
+>
 
 </div>
 
@@ -435,13 +489,13 @@ Developed responsive frontend interfaces using modern web technologies, reusable
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
 
-<img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
+<img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT">
 
-<img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
+<img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI">
 
 </div>
 
@@ -451,7 +505,7 @@ Developed responsive frontend interfaces using modern web technologies, reusable
 
 <div align="center">
 
-`DSA` · `Full Stack Development` · `System Design` · `Cloud` · `AI/ML` · `Open Source`
+`DSA` • `Full Stack Development` • `System Design` • `Cloud` • `AI/ML` • `Open Source`
 
 </div>
 
@@ -462,31 +516,24 @@ Developed responsive frontend interfaces using modern web technologies, reusable
 <div align="center">
 
 <a href="https://linkedin.com/in/om-maurya-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:ommaurya2580@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://github.com/ommaurya2580-beep">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"
-alt="Profile Views"
-/>
 
 <br><br>
 
-### 💫 **Code. Build. Learn. Repeat.**
+<img src="https://komarev.com/ghpvc/?username=ommaurya2580-beep&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile Views">
+
+<br><br>
+
+### 💫 Code. Build. Learn. Repeat.
 
 <i>"First, solve the problem. Then, write the code."</i>
 
